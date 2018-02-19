@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  19 FEB 2018 03:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  19 FEB 2018 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -953,210 +953,610 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--22
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./task11.tex [1])
-(./task12.tex <./Screenshots/1.png, id=13, 440.39531pt x 129.48375pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./task11.tex [1]
+Package epstopdf Info: Source file: <./Screenshots/mnano.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 15015 bytes
+(epstopdf)             Output file: <./Screenshots/mnano-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:39
+(epstopdf)                    size: 6475 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mnano-eps-co
+nverted-to.pdf ./Screenshots/mnano.eps>
+(epstopdf)             \includegraphics on input line 20.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/mnano-eps-converted-to.pdf, id=13, 530.98375pt x 22.0825pt>
+File: ./Screenshots/mnano-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mnano-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mnano-eps-converted-to.pdf used on input
+ line 20.
+(pdftex.def)             Requested size: 512.14963pt x 21.30069pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mmv.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 7110 bytes
+(epstopdf)             Output file: <./Screenshots/mmv-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:44
+(epstopdf)                    size: 5233 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mmv-eps-conv
+erted-to.pdf ./Screenshots/mmv.eps>
+(epstopdf)             \includegraphics on input line 27.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mmv-eps-converted-to.pdf, id=14, 223.83624pt x 26.0975pt>
+File: ./Screenshots/mmv-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mmv-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mmv-eps-converted-to.pdf used on input l
+ine 27.
+(pdftex.def)             Requested size: 512.14963pt x 59.71832pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--30
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mrm.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 8886 bytes
+(epstopdf)             Output file: <./Screenshots/mrm-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:44
+(epstopdf)                    size: 5112 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mrm-eps-conv
+erted-to.pdf ./Screenshots/mrm.eps>
+(epstopdf)             \includegraphics on input line 34.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mrm-eps-converted-to.pdf, id=15, 314.17375pt x 28.105pt>
+File: ./Screenshots/mrm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mrm-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mrm-eps-converted-to.pdf used on input l
+ine 34.
+(pdftex.def)             Requested size: 512.14963pt x 45.82187pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mdf.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 11345 bytes
+(epstopdf)             Output file: <./Screenshots/mdf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:44
+(epstopdf)                    size: 6178 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mdf-eps-conv
+erted-to.pdf ./Screenshots/mdf.eps>
+(epstopdf)             \includegraphics on input line 41.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mdf-eps-converted-to.pdf, id=16, 377.41pt x 32.12pt>
+File: ./Screenshots/mdf-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mdf-eps-converted-to.pdf used on input l
+ine 41.
+(pdftex.def)             Requested size: 512.14963pt x 43.59094pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mdu.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 9053 bytes
+(epstopdf)             Output file: <./Screenshots/mdu-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:45
+(epstopdf)                    size: 5374 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mdu-eps-conv
+erted-to.pdf ./Screenshots/mdu.eps>
+(epstopdf)             \includegraphics on input line 48.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mdu-eps-converted-to.pdf, id=17, 281.05pt x 34.1275pt>
+File: ./Screenshots/mdu-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mdu-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mdu-eps-converted-to.pdf used on input l
+ine 48.
+(pdftex.def)             Requested size: 512.14963pt x 62.2001pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--51
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mfree.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 16258 bytes
+(epstopdf)             Output file: <./Screenshots/mfree-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:45
+(epstopdf)                    size: 6436 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mfree-eps-co
+nverted-to.pdf ./Screenshots/mfree.eps>
+(epstopdf)             \includegraphics on input line 55.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mfree-eps-converted-to.pdf, id=18, 555.07375pt x 36.135pt>
+File: ./Screenshots/mfree-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mfree-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mfree-eps-converted-to.pdf used on input
+ line 55.
+(pdftex.def)             Requested size: 512.14963pt x 33.34106pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+[2 <./Screenshots/mnano-eps-converted-to.pdf> <./Screenshots/mmv-eps-converted-
+to.pdf> <./Screenshots/mrm-eps-converted-to.pdf> <./Screenshots/mdf-eps-convert
+ed-to.pdf> <./Screenshots/mdu-eps-converted-to.pdf> <./Screenshots/mfree-eps-co
+nverted-to.pdf>]
+Package epstopdf Info: Source file: <./Screenshots/mtop.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 8818 bytes
+(epstopdf)             Output file: <./Screenshots/mtop-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:45
+(epstopdf)                    size: 5679 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mtop-eps-con
+verted-to.pdf ./Screenshots/mtop.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/mtop-eps-converted-to.pdf, id=42, 300.12125pt x 28.105pt>
+File: ./Screenshots/mtop-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mtop-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mtop-eps-converted-to.pdf used on input 
+line 63.
+(pdftex.def)             Requested size: 512.14963pt x 47.96953pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--66
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mls.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 8298 bytes
+(epstopdf)             Output file: <./Screenshots/mls-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:46
+(epstopdf)                    size: 5039 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mls-eps-conv
+erted-to.pdf ./Screenshots/mls.eps>
+(epstopdf)             \includegraphics on input line 70.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mls-eps-converted-to.pdf, id=43, 287.0725pt x 28.105pt>
+File: ./Screenshots/mls-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mls-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mls-eps-converted-to.pdf used on input l
+ine 70.
+(pdftex.def)             Requested size: 512.14963pt x 50.14207pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--73
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mpwd.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 12980 bytes
+(epstopdf)             Output file: <./Screenshots/mpwd-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:46
+(epstopdf)                    size: 6469 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mpwd-eps-con
+verted-to.pdf ./Screenshots/mpwd.eps>
+(epstopdf)             \includegraphics on input line 77.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mpwd-eps-converted-to.pdf, id=44, 424.58624pt x 28.105pt>
+File: ./Screenshots/mpwd-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mpwd-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mpwd-eps-converted-to.pdf used on input 
+line 77.
+(pdftex.def)             Requested size: 512.14963pt x 33.90292pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mclear.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 9390 bytes
+(epstopdf)             Output file: <./Screenshots/mclear-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-02-19 19:31:46
+(epstopdf)                    size: 5689 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mclear-eps-c
+onverted-to.pdf ./Screenshots/mclear.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mclear-eps-converted-to.pdf, id=45, 321.2pt x 34.1275pt>
+File: ./Screenshots/mclear-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mclear-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mclear-eps-converted-to.pdf used on inpu
+t line 84.
+(pdftex.def)             Requested size: 512.14963pt x 54.4176pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--87
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/muname.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 9589 bytes
+(epstopdf)             Output file: <./Screenshots/muname-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-02-19 19:31:46
+(epstopdf)                    size: 5359 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/muname-eps-c
+onverted-to.pdf ./Screenshots/muname.eps>
+(epstopdf)             \includegraphics on input line 91.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/muname-eps-converted-to.pdf, id=46, 313.17pt x 28.105pt>
+File: ./Screenshots/muname-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/muname-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/muname-eps-converted-to.pdf used on inpu
+t line 91.
+(pdftex.def)             Requested size: 512.14963pt x 45.96854pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mman.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 13612 bytes
+(epstopdf)             Output file: <./Screenshots/mman-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:47
+(epstopdf)                    size: 5550 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mman-eps-con
+verted-to.pdf ./Screenshots/mman.eps>
+(epstopdf)             \includegraphics on input line 98.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mman-eps-converted-to.pdf, id=47, 485.815pt x 28.105pt>
+File: ./Screenshots/mman-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mman-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mman-eps-converted-to.pdf used on input 
+line 98.
+(pdftex.def)             Requested size: 512.14963pt x 29.62817pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
+
+ []
+
+Package epstopdf Info: Source file: <./Screenshots/mlsmod.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 14792 bytes
+(epstopdf)             Output file: <./Screenshots/mlsmod-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-02-19 19:31:47
+(epstopdf)                    size: 6458 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mlsmod-eps-c
+onverted-to.pdf ./Screenshots/mlsmod.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+<./Screenshots/mlsmod-eps-converted-to.pdf, id=48, 502.87875pt x 30.1125pt>
+File: ./Screenshots/mlsmod-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mlsmod-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mlsmod-eps-converted-to.pdf used on inpu
+t line 105.
+(pdftex.def)             Requested size: 512.14963pt x 30.66745pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--108
+
+ []
+
+[3 <./Screenshots/mtop-eps-converted-to.pdf> <./Screenshots/mls-eps-converted-t
+o.pdf> <./Screenshots/mpwd-eps-converted-to.pdf> <./Screenshots/mclear-eps-conv
+erted-to.pdf> <./Screenshots/muname-eps-converted-to.pdf> <./Screenshots/mman-e
+ps-converted-to.pdf> <./Screenshots/mlsmod-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Screenshots/mdate.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 12587 bytes
+(epstopdf)             Output file: <./Screenshots/mdate-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:47
+(epstopdf)                    size: 5699 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/mdate-eps-co
+nverted-to.pdf ./Screenshots/mdate.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/mdate-eps-converted-to.pdf, id=73, 404.51125pt x 41.15375pt>
+File: ./Screenshots/mdate-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/mdate-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/mdate-eps-converted-to.pdf used on input
+ line 113.
+(pdftex.def)             Requested size: 512.14963pt x 52.10579pt.
+ [4 <./Screenshots/mdate-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Screenshots/htop0.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 16891 bytes
+(epstopdf)             Output file: <./Screenshots/htop0-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:48
+(epstopdf)                    size: 8398 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/htop0-eps-co
+nverted-to.pdf ./Screenshots/htop0.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/htop0-eps-converted-to.pdf, id=80, 309.155pt x 64.24pt>
+File: ./Screenshots/htop0-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/htop0-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/htop0-eps-converted-to.pdf used on input
+ line 125.
+(pdftex.def)             Requested size: 512.14963pt x 106.43056pt.
+Package epstopdf Info: Source file: <./Screenshots/htop.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 866607 bytes
+(epstopdf)             Output file: <./Screenshots/htop-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:49
+(epstopdf)                    size: 564606 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/htop-eps-con
+verted-to.pdf ./Screenshots/htop.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/htop-eps-converted-to.pdf, id=81, 1296.845pt x 716.6775pt>
+File: ./Screenshots/htop-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/htop-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/htop-eps-converted-to.pdf used on input 
+line 129.
+(pdftex.def)             Requested size: 512.14963pt x 283.03531pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--131
+
+ []
+
+[5 <./Screenshots/htop0-eps-converted-to.pdf> <./Screenshots/htop-eps-converted
+-to.pdf>]
+Package epstopdf Info: Source file: <./Screenshots/free0.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 18471 bytes
+(epstopdf)             Output file: <./Screenshots/free0-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:37:31
+(epstopdf)                    size: 8988 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/free0-eps-co
+nverted-to.pdf ./Screenshots/free0.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/free0-eps-converted-to.pdf, id=91, 298.11375pt x 59.22125pt>
+File: ./Screenshots/free0-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/free0-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/free0-eps-converted-to.pdf used on input
+ line 140.
+(pdftex.def)             Requested size: 512.14963pt x 101.75731pt.
+Package epstopdf Info: Source file: <./Screenshots/free.eps>
+(epstopdf)                    date: 2018-02-19 19:28:29
+(epstopdf)                    size: 57791 bytes
+(epstopdf)             Output file: <./Screenshots/free-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-19 19:31:50
+(epstopdf)                    size: 20428 bytes
+(epstopdf)             Command: <repstopdf --outfile=./Screenshots/free-eps-con
+verted-to.pdf ./Screenshots/free.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Screenshots/free-eps-converted-to.pdf, id=92, 755.82375pt x 129.48375pt>
+File: ./Screenshots/free-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./Screenshots/free-eps-converted-to.pdf>
+Package pdftex.def Info: ./Screenshots/free-eps-converted-to.pdf used on input 
+line 144.
+(pdftex.def)             Requested size: 512.14963pt x 87.73955pt.
+) (./task12.tex [6 <./Screenshots/free0-eps-converted-to.pdf> <./Screenshots/fr
+ee-eps-converted-to.pdf>]
+<./Screenshots/1.png, id=103, 440.39531pt x 129.48375pt>
 File: ./Screenshots/1.png Graphic file (type png)
 
 <use ./Screenshots/1.png>
-Package pdftex.def Info: ./Screenshots/1.png used on input line 5.
+Package pdftex.def Info: ./Screenshots/1.png used on input line 6.
 (pdftex.def)             Requested size: 512.14963pt x 150.5865pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
 
  []
 
-<./Screenshots/2.png, id=14, 380.17032pt x 128.73094pt>
+<./Screenshots/2.png, id=104, 380.17032pt x 128.73094pt>
 File: ./Screenshots/2.png Graphic file (type png)
 
 <use ./Screenshots/2.png>
-Package pdftex.def Info: ./Screenshots/2.png used on input line 10.
+Package pdftex.def Info: ./Screenshots/2.png used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 173.43942pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--11
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
 
  []
 
-<./Screenshots/3.png, id=15, 447.92343pt x 149.05687pt>
+<./Screenshots/3.png, id=105, 447.92343pt x 149.05687pt>
 File: ./Screenshots/3.png Graphic file (type png)
 
 <use ./Screenshots/3.png>
-Package pdftex.def Info: ./Screenshots/3.png used on input line 15.
+Package pdftex.def Info: ./Screenshots/3.png used on input line 16.
 (pdftex.def)             Requested size: 512.14963pt x 170.44743pt.
 
-Overfull \hbox (30.34297pt too wide) in paragraph at lines 13--16
+Overfull \hbox (30.34297pt too wide) in paragraph at lines 14--17
  \T2A/cmr/bx/n/12 3)[] \T2A/cmr/m/n/12 Не пе-ре-хо-дя в ди-рек-то-рию \T2A/cmr/
 m/it/12 /home/texnoman/1/Antipov \T2A/cmr/m/n/12 бы-ла со-зда-на ди-рек-то-рия 
 \T2A/cmr/m/it/12 VladAnnaMakar\T2A/cmr/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
-<./Screenshots/4.png, id=16, 399.74344pt x 148.30406pt>
+<./Screenshots/4.png, id=106, 399.74344pt x 148.30406pt>
 File: ./Screenshots/4.png Graphic file (type png)
 
 <use ./Screenshots/4.png>
-Package pdftex.def Info: ./Screenshots/4.png used on input line 20.
+Package pdftex.def Info: ./Screenshots/4.png used on input line 21.
 (pdftex.def)             Requested size: 512.14963pt x 190.03218pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-[2 <./Screenshots/1.png (PNG copy)> <./Screenshots/2.png (PNG copy)> <./Screens
+[7 <./Screenshots/1.png (PNG copy)> <./Screenshots/2.png (PNG copy)> <./Screens
 hots/3.png (PNG copy)>]
-<./Screenshots/5.png, id=22, 412.54124pt x 121.20282pt>
+<./Screenshots/5.png, id=110, 412.54124pt x 121.20282pt>
 File: ./Screenshots/5.png Graphic file (type png)
 
 <use ./Screenshots/5.png>
-Package pdftex.def Info: ./Screenshots/5.png used on input line 25.
+Package pdftex.def Info: ./Screenshots/5.png used on input line 26.
 (pdftex.def)             Requested size: 512.14963pt x 150.48042pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
  []
 
-<./Screenshots/6.png, id=23, 393.72093pt x 158.09062pt>
+<./Screenshots/6.png, id=111, 393.72093pt x 158.09062pt>
 File: ./Screenshots/6.png Graphic file (type png)
 
 <use ./Screenshots/6.png>
-Package pdftex.def Info: ./Screenshots/6.png used on input line 31.
+Package pdftex.def Info: ./Screenshots/6.png used on input line 32.
 (pdftex.def)             Requested size: 512.14963pt x 205.6601pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--32
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
-<./Screenshots/7.png, id=24, 374.90062pt x 223.58531pt>
+<./Screenshots/7.png, id=112, 374.90062pt x 223.58531pt>
 File: ./Screenshots/7.png Graphic file (type png)
 
 <use ./Screenshots/7.png>
-Package pdftex.def Info: ./Screenshots/7.png used on input line 39.
+Package pdftex.def Info: ./Screenshots/7.png used on input line 40.
 (pdftex.def)             Requested size: 512.14963pt x 305.45709pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--40
+Underfull \hbox (badness 10000) in paragraph at lines 35--41
 
  []
 
-[3 <./Screenshots/4.png (PNG copy)> <./Screenshots/5.png (PNG copy)> <./Screens
+[8 <./Screenshots/4.png (PNG copy)> <./Screenshots/5.png (PNG copy)> <./Screens
 hots/6.png (PNG copy)>]
-<./Screenshots/8.png, id=28, 419.31656pt x 158.84344pt>
+<./Screenshots/8.png, id=116, 419.31656pt x 158.84344pt>
 File: ./Screenshots/8.png Graphic file (type png)
 
 <use ./Screenshots/8.png>
-Package pdftex.def Info: ./Screenshots/8.png used on input line 45.
+Package pdftex.def Info: ./Screenshots/8.png used on input line 46.
 (pdftex.def)             Requested size: 512.14963pt x 194.00926pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
-<./Screenshots/9.png, id=29, 396.7322pt x 182.93344pt>
+<./Screenshots/9.png, id=117, 396.7322pt x 182.93344pt>
 File: ./Screenshots/9.png Graphic file (type png)
 
 <use ./Screenshots/9.png>
-Package pdftex.def Info: ./Screenshots/9.png used on input line 50.
+Package pdftex.def Info: ./Screenshots/9.png used on input line 51.
 (pdftex.def)             Requested size: 512.14963pt x 236.1777pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
-[4 <./Screenshots/7.png (PNG copy)> <./Screenshots/8.png (PNG copy)>]
-<./Screenshots/10.png, id=33, 404.26031pt x 264.23718pt>
+[9 <./Screenshots/7.png (PNG copy)> <./Screenshots/8.png (PNG copy)>]
+<./Screenshots/10.png, id=121, 404.26031pt x 264.23718pt>
 File: ./Screenshots/10.png Graphic file (type png)
 
 <use ./Screenshots/10.png>
-Package pdftex.def Info: ./Screenshots/10.png used on input line 56.
+Package pdftex.def Info: ./Screenshots/10.png used on input line 57.
 (pdftex.def)             Requested size: 512.14963pt x 334.76303pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
 
  []
 
-<./Screenshots/11.png, id=34, 560.8453pt x 96.36pt>
+<./Screenshots/11.png, id=122, 560.8453pt x 96.36pt>
 File: ./Screenshots/11.png Graphic file (type png)
- <use ./Screenshots/11.png>
-Package pdftex.def Info: ./Screenshots/11.png used on input line 64.
+
+<use ./Screenshots/11.png>
+Package pdftex.def Info: ./Screenshots/11.png used on input line 65.
 (pdftex.def)             Requested size: 512.14963pt x 87.99796pt.
 
-<./Screenshots/12.png, id=35, 459.96844pt x 173.14688pt>
+<./Screenshots/12.png, id=123, 459.96844pt x 173.14688pt>
 File: ./Screenshots/12.png Graphic file (type png)
 
 <use ./Screenshots/12.png>
-Package pdftex.def Info: ./Screenshots/12.png used on input line 66.
+Package pdftex.def Info: ./Screenshots/12.png used on input line 67.
 (pdftex.def)             Requested size: 512.14963pt x 192.80032pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
-[5 <./Screenshots/9.png (PNG copy)> <./Screenshots/10.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+[10 <./Screenshots/9.png (PNG copy)> <./Screenshots/10.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
-<./Screenshots/13.png, id=39, 460.72125pt x 99.37125pt>
+<./Screenshots/13.png, id=127, 460.72125pt x 99.37125pt>
 File: ./Screenshots/13.png Graphic file (type png)
 
 <use ./Screenshots/13.png>
-Package pdftex.def Info: ./Screenshots/13.png used on input line 73.
+Package pdftex.def Info: ./Screenshots/13.png used on input line 74.
 (pdftex.def)             Requested size: 512.14963pt x 110.47017pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 73--75
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 74--76
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
-<./Screenshots/14.png, id=40, 309.40594pt x 111.41624pt>
+<./Screenshots/14.png, id=128, 309.40594pt x 111.41624pt>
 File: ./Screenshots/14.png Graphic file (type png)
 
 <use ./Screenshots/14.png>
-Package pdftex.def Info: ./Screenshots/14.png used on input line 79.
+Package pdftex.def Info: ./Screenshots/14.png used on input line 80.
 (pdftex.def)             Requested size: 512.14963pt x 184.44089pt.
 ) (./end.tex
-Underfull \hbox (badness 10000) in paragraph at lines 77--1
+Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--1
+Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
-[6 <./Screenshots/11.png (PNG copy)> <./Screenshots/12.png (PNG copy)> <./Scree
-nshots/13.png (PNG copy)> <./Screenshots/14.png (PNG copy)>]
+[11 <./Screenshots/11.png (PNG copy)> <./Screenshots/12.png (PNG copy)> <./Scre
+enshots/13.png (PNG copy)> <./Screenshots/14.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1166,31 +1566,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[7]
+[12]
 Overfull \hbox (16.73383pt too wide) in paragraph at lines 11--14
 []\T2A/cmr/m/n/12 В дан-ной ла-бо-ра-тор-ной бы-ли по-лу-че-ны на-вы-ки ра-бо-т
 ы со стан-дарт-ны-ми ути-ли-та-ми \T2A/cmr/m/it/12 GNU/Linux
  []
 
-) [8] (./main.aux) ) 
+) [13] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4546 strings out of 493029
- 58294 string characters out of 6136234
+ 4637 strings out of 493029
+ 61622 string characters out of 6136234
  126325 words of memory out of 5000000
- 7978 multiletter control sequences out of 15000+600000
+ 8050 multiletter control sequences out of 15000+600000
  13680 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,4n,23p,539b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (9 pages, 407616 bytes).
+ 37i,6n,23p,539b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}</usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (14 pages, 1063343 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 161 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
