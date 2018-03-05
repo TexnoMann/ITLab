@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  5 MAR 2018 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  6 MAR 2018 02:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -963,39 +963,152 @@ Overfull \hbox (27.77963pt too wide) in paragraph at lines 5--6
 File: ./Screenshots/picture1.png Graphic file (type png)
 
 <use ./Screenshots/picture1.png>
-Package pdftex.def Info: ./Screenshots/picture1.png used on input line 15.
+Package pdftex.def Info: ./Screenshots/picture1.png used on input line 23.
 (pdftex.def)             Requested size: 512.14963pt x 187.12343pt.
 
 <./Screenshots/picture2.png, id=14, 825.0825pt x 304.88907pt>
 File: ./Screenshots/picture2.png Graphic file (type png)
 
 <use ./Screenshots/picture2.png>
-Package pdftex.def Info: ./Screenshots/picture2.png used on input line 16.
+Package pdftex.def Info: ./Screenshots/picture2.png used on input line 24.
 (pdftex.def)             Requested size: 512.14963pt x 189.25256pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
 
 <./Screenshots/picture3.png, id=15, 597.73312pt x 182.93344pt>
 File: ./Screenshots/picture3.png Graphic file (type png)
 
 <use ./Screenshots/picture3.png>
-Package pdftex.def Info: ./Screenshots/picture3.png used on input line 20.
+Package pdftex.def Info: ./Screenshots/picture3.png used on input line 28.
 (pdftex.def)             Requested size: 512.14963pt x 156.75024pt.
 
-<./Screenshots/picture5.png, id=16, 778.40813pt x 214.55156pt>
+<./Screenshots/picture4.png, id=16, 795.72281pt x 271.76532pt>
+File: ./Screenshots/picture4.png Graphic file (type png)
+
+<use ./Screenshots/picture4.png>
+Package pdftex.def Info: ./Screenshots/picture4.png used on input line 29.
+(pdftex.def)             Requested size: 512.14963pt x 174.92029pt.
+ [2 <./Screenshots/picture1.png (PNG copy)> <./Screenshots/picture2.png (PNG co
+py)>]
+<./Screenshots/wget(var1).png, id=22, 1287.81125pt x 418.56375pt>
+File: ./Screenshots/wget(var1).png Graphic file (type png)
+
+<use ./Screenshots/wget(var1).png>
+Package pdftex.def Info: ./Screenshots/wget(var1).png used on input line 33.
+(pdftex.def)             Requested size: 512.14963pt x 166.46451pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+<./Screenshots/picture5.png, id=24, 778.40813pt x 214.55156pt>
 File: ./Screenshots/picture5.png Graphic file (type png)
 
 <use ./Screenshots/picture5.png>
-Package pdftex.def Info: ./Screenshots/picture5.png used on input line 24.
+Package pdftex.def Info: ./Screenshots/picture5.png used on input line 36.
 (pdftex.def)             Requested size: 512.14963pt x 141.16577pt.
- [2 <./Screenshots/picture1.png (PNG copy)> <./Screenshots/picture2.png (PNG co
-py)> <./Screenshots/picture3.png (PNG copy)>]
-<./Screenshots/picture6.png, id=22, 1028.34187pt x 551.05875pt>
+
+<./Screenshots/picture6.png, id=25, 683.55376pt x 108.405pt>
 File: ./Screenshots/picture6.png Graphic file (type png)
 
 <use ./Screenshots/picture6.png>
-Package pdftex.def Info: ./Screenshots/picture6.png used on input line 28.
+Package pdftex.def Info: ./Screenshots/picture6.png used on input line 40.
+(pdftex.def)             Requested size: 512.14963pt x 81.22745pt.
+ [3 <./Screenshots/picture3.png (PNG copy)> <./Screenshots/picture4.png (PNG co
+py)> <./Screenshots/wget(var1).png> <./Screenshots/picture5.png (PNG copy)>]
+<./Screenshots/picture22.png, id=30, 595.47469pt x 152.06813pt>
+File: ./Screenshots/picture22.png Graphic file (type png)
+
+<use ./Screenshots/picture22.png>
+Package pdftex.def Info: ./Screenshots/picture22.png used on input line 48.
+(pdftex.def)             Requested size: 512.14963pt x 130.7969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+
+ []
+
+<./Screenshots/tar(3).png, id=31, 814.04124pt x 389.455pt>
+File: ./Screenshots/tar(3).png Graphic file (type png)
+
+<use ./Screenshots/tar(3).png>
+Package pdftex.def Info: ./Screenshots/tar(3).png used on input line 52.
+(pdftex.def)             Requested size: 512.14963pt x 245.0311pt.
+
+<./Screenshots/picture23.png, id=32, 431.36156pt x 98.61844pt>
+File: ./Screenshots/picture23.png Graphic file (type png)
+
+<use ./Screenshots/picture23.png>
+Package pdftex.def Info: ./Screenshots/picture23.png used on input line 59.
+(pdftex.def)             Requested size: 512.14963pt x 117.10005pt.
+
+<./Screenshots/picture12.png, id=33, 1028.34187pt x 551.05875pt>
+File: ./Screenshots/picture12.png Graphic file (type png)
+
+<use ./Screenshots/picture12.png>
+Package pdftex.def Info: ./Screenshots/picture12.png used on input line 60.
 (pdftex.def)             Requested size: 512.14963pt x 274.45241pt.
-) (./end.tex [3 <./Screenshots/picture5.png (PNG copy)> <./Screenshots/picture6
-.png (PNG copy)>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--62
+
+ []
+
+[4 <./Screenshots/picture6.png (PNG copy)> <./Screenshots/picture22.png (PNG co
+py)> <./Screenshots/tar(3).png>]
+<./Screenshots/find_Lermontov.png, id=38, 927.465pt x 103.38625pt>
+File: ./Screenshots/find_Lermontov.png Graphic file (type png)
+
+<use ./Screenshots/find_Lermontov.png>
+Package pdftex.def Info: ./Screenshots/find_Lermontov.png used on input line 64
+.
+(pdftex.def)             Requested size: 512.14963pt x 57.09134pt.
+
+<./Screenshots/picture14.png, id=39, 635.37375pt x 168.63pt>
+File: ./Screenshots/picture14.png Graphic file (type png)
+
+<use ./Screenshots/picture14.png>
+Package pdftex.def Info: ./Screenshots/picture14.png used on input line 68.
+(pdftex.def)             Requested size: 512.14963pt x 135.93855pt.
+
+<./Screenshots/101.png, id=40, 891.33pt x 163.61125pt>
+File: ./Screenshots/101.png Graphic file (type png)
+
+<use ./Screenshots/101.png>
+Package pdftex.def Info: ./Screenshots/101.png used on input line 69.
+(pdftex.def)             Requested size: 512.14963pt x 94.01082pt.
+
+<./Screenshots/102.png, id=41, 775.89874pt x 149.55875pt>
+File: ./Screenshots/102.png Graphic file (type png)
+
+<use ./Screenshots/102.png>
+Package pdftex.def Info: ./Screenshots/102.png used on input line 70.
+(pdftex.def)             Requested size: 512.14963pt x 98.72047pt.
+ [5 <./Screenshots/picture23.png (PNG copy)> <./Screenshots/picture12.png (PNG 
+copy)> <./Screenshots/find_Lermontov.png> <./Screenshots/picture14.png (PNG cop
+y)>]
+<./Screenshots/picture16.png, id=46, 759.58781pt x 404.26031pt>
+File: ./Screenshots/picture16.png Graphic file (type png)
+
+<use ./Screenshots/picture16.png>
+Package pdftex.def Info: ./Screenshots/picture16.png used on input line 74.
+(pdftex.def)             Requested size: 512.14963pt x 272.574pt.
+
+<./Screenshots/103.png, id=47, 751.80875pt x 58.2175pt>
+File: ./Screenshots/103.png Graphic file (type png)
+
+<use ./Screenshots/103.png>
+Package pdftex.def Info: ./Screenshots/103.png used on input line 78.
+(pdftex.def)             Requested size: 512.14963pt x 39.66199pt.
+
+<./Screenshots/119.png, id=48, 697.60625pt x 129.48375pt>
+File: ./Screenshots/119.png Graphic file (type png)
+
+<use ./Screenshots/119.png>
+Package pdftex.def Info: ./Screenshots/119.png used on input line 79.
+(pdftex.def)             Requested size: 512.14963pt x 95.06566pt.
+) (./end.tex [6 <./Screenshots/101.png> <./Screenshots/102.png> <./Screenshots/
+picture16.png (PNG copy)> <./Screenshots/103.png> <./Screenshots/119.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1005,18 +1118,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[4]
+[7]
 Overfull \hbox (16.73383pt too wide) in paragraph at lines 11--14
 []\T2A/cmr/m/n/12 В дан-ной ла-бо-ра-тор-ной бы-ли по-лу-че-ны на-вы-ки ра-бо-т
 ы со стан-дарт-ны-ми ути-ли-та-ми \T2A/cmr/m/it/12 GNU/Linux
  []
 
-) [5] (./main.aux) ) 
+) [8] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4498 strings out of 493029
- 57516 string characters out of 6136234
+ 4563 strings out of 493029
+ 59226 string characters out of 6136234
  125325 words of memory out of 5000000
- 7942 multiletter control sequences out of 15000+600000
+ 7994 multiletter control sequences out of 15000+600000
  13680 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,4n,23p,480b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1026,10 +1139,10 @@ onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb>
 </usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fo
 nts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (6 pages, 1193834 bytes).
+Output written on main.pdf (9 pages, 2221383 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
