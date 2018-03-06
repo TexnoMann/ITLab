@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  6 MAR 2018 03:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  6 MAR 2018 03:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1116,53 +1116,56 @@ Package pdftex.def Info: ./Screenshots/picture17.png used on input line 84.
 (pdftex.def)             Requested size: 512.14963pt x 233.54901pt.
  [6 <./Screenshots/101.png> <./Screenshots/102.png> <./Screenshots/picture16.pn
 g (PNG copy)> <./Screenshots/103.png> <./Screenshots/119.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
 <./Screenshots/picture18.png, id=58, 618.05907pt x 293.59688pt>
 File: ./Screenshots/picture18.png Graphic file (type png)
 
 <use ./Screenshots/picture18.png>
-Package pdftex.def Info: ./Screenshots/picture18.png used on input line 91.
-(pdftex.def)             Requested size: 512.14963pt x 243.30902pt.
+Package pdftex.def Info: ./Screenshots/picture18.png used on input line 92.
+(pdftex.def)             Requested size: 409.72125pt x 194.63467pt.
 
 <./Screenshots/106.png, id=59, 1147.28625pt x 418.56375pt>
 File: ./Screenshots/106.png Graphic file (type png)
 
 <use ./Screenshots/106.png>
-Package pdftex.def Info: ./Screenshots/106.png used on input line 92.
-(pdftex.def)             Requested size: 512.14963pt x 186.85104pt.
+Package pdftex.def Info: ./Screenshots/106.png used on input line 93.
+(pdftex.def)             Requested size: 409.72125pt x 149.47572pt.
 
 <./Screenshots/107.png, id=60, 1166.3575pt x 369.38pt>
 File: ./Screenshots/107.png Graphic file (type png)
 
 <use ./Screenshots/107.png>
-Package pdftex.def Info: ./Screenshots/107.png used on input line 93.
-(pdftex.def)             Requested size: 512.14963pt x 162.20079pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
-
- []
-
-[7 <./Screenshots/picture17.png (PNG copy)> <./Screenshots/picture18.png (PNG c
-opy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Package pdftex.def Info: ./Screenshots/107.png used on input line 94.
+(pdftex.def)             Requested size: 409.72125pt x 129.75275pt.
+ [7 <./Screenshots/picture17.png (PNG copy)> <./Screenshots/picture18.png (PNG 
+copy)> <./Screenshots/106.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
-<./Screenshots/109.png, id=64, 463.7325pt x 624.3325pt>
+<./Screenshots/109.png, id=65, 463.7325pt x 624.3325pt>
 File: ./Screenshots/109.png Graphic file (type png)
 
 <use ./Screenshots/109.png>
-Package pdftex.def Info: ./Screenshots/109.png used on input line 98.
+Package pdftex.def Info: ./Screenshots/109.png used on input line 100.
 (pdftex.def)             Requested size: 358.50317pt x 482.6714pt.
 
-<./Screenshots/picture19.png, id=65, 543.53062pt x 229.60782pt> [8 <./Screensho
-ts/106.png> <./Screenshots/107.png>]
+<./Screenshots/picture19.png, id=66, 543.53062pt x 229.60782pt>
 File: ./Screenshots/picture19.png Graphic file (type png)
- <use ./Screenshots/picture19.png>
-Package pdftex.def Info: ./Screenshots/picture19.png used on input line 99.
-(pdftex.def)             Requested size: 512.14963pt x 216.3604pt.
-)
-(./end.tex [9 <./Screenshots/109.png> <./Screenshots/picture19.png (PNG copy)>]
 
+<use ./Screenshots/picture19.png>
+Package pdftex.def Info: ./Screenshots/picture19.png used on input line 101.
+(pdftex.def)             Requested size: 512.14963pt x 216.3604pt.
+ [8 <./Screenshots/107.png> <./Screenshots/109.png>]) (./2(2).tex [9 <./Screens
+hots/picture19.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1172,31 +1175,657 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[10]
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<./Screenshots/110.png, id=75, 804.00375pt x 93.34875pt>
+File: ./Screenshots/110.png Graphic file (type png)
+
+<use ./Screenshots/110.png>
+Package pdftex.def Info: ./Screenshots/110.png used on input line 16.
+(pdftex.def)             Requested size: 512.14963pt x 59.46237pt.
+
+<./Screenshots/111.png, id=76, 711.65875pt x 59.22125pt>
+File: ./Screenshots/111.png Graphic file (type png)
+
+<use ./Screenshots/111.png>
+Package pdftex.def Info: ./Screenshots/111.png used on input line 18.
+(pdftex.def)             Requested size: 512.14963pt x 42.62027pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+<./Screenshots/picture20.png, id=77, 580.41844pt x 181.42781pt>
+File: ./Screenshots/picture20.png Graphic file (type png)
+
+<use ./Screenshots/picture20.png>
+Package pdftex.def Info: ./Screenshots/picture20.png used on input line 24.
+(pdftex.def)             Requested size: 512.14963pt x 160.09714pt.
+
+<./Screenshots/picture21.png, id=78, 620.3175pt x 405.76593pt>
+File: ./Screenshots/picture21.png Graphic file (type png)
+
+<use ./Screenshots/picture21.png>
+Package pdftex.def Info: ./Screenshots/picture21.png used on input line 27.
+(pdftex.def)             Requested size: 512.14963pt x 335.00868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
+
+ []
+
+[10 <./Screenshots/110.png> <./Screenshots/111.png> <./Screenshots/picture20.pn
+g (PNG copy)>] <./Screenshots/112.png, id=84, 626.34pt x 241.90375pt>
+File: ./Screenshots/112.png Graphic file (type png)
+
+<use ./Screenshots/112.png>
+Package pdftex.def Info: ./Screenshots/112.png used on input line 33.
+(pdftex.def)             Requested size: 512.14963pt x 197.80867pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+<./Screenshots/113(b).png, id=85, 587.19376pt x 40.15pt>
+File: ./Screenshots/113(b).png Graphic file (type png)
+
+<use ./Screenshots/113(b).png>
+Package pdftex.def Info: ./Screenshots/113(b).png used on input line 37.
+(pdftex.def)             Requested size: 512.14963pt x 35.01903pt.
+
+<./Screenshots/113(r).png, id=86, 342.27875pt x 597.23125pt>
+File: ./Screenshots/113(r).png Graphic file (type png)
+
+<use ./Screenshots/113(r).png>
+Package pdftex.def Info: ./Screenshots/113(r).png used on input line 39.
+(pdftex.def)             Requested size: 512.14963pt x 893.70311pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+
+ []
+
+[11 <./Screenshots/picture21.png (PNG copy)> <./Screenshots/112.png> <./Screens
+hots/113(b).png>]
+Overfull \vbox (134.01451pt too high) has occurred while \output is active []
+
+
+[12 <./Screenshots/113(r).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+<./Screenshots/114.png, id=97, 667.49374pt x 162.6075pt>
+File: ./Screenshots/114.png Graphic file (type png)
+
+<use ./Screenshots/114.png>
+Package pdftex.def Info: ./Screenshots/114.png used on input line 48.
+(pdftex.def)             Requested size: 512.14963pt x 124.77394pt.
+
+<./Screenshots/115.png, id=98, 696.6025pt x 166.6225pt>
+File: ./Screenshots/115.png Graphic file (type png)
+
+<use ./Screenshots/115.png>
+Package pdftex.def Info: ./Screenshots/115.png used on input line 50.
+(pdftex.def)             Requested size: 512.14963pt x 122.50801pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+<./Screenshots/116.png, id=99, 690.58pt x 55.20625pt>
+File: ./Screenshots/116.png Graphic file (type png)
+
+<use ./Screenshots/116.png>
+Package pdftex.def Info: ./Screenshots/116.png used on input line 55.
+(pdftex.def)             Requested size: 512.14963pt x 40.94295pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
+<./Screenshots/117.png, id=100, 725.71124pt x 58.2175pt>
+File: ./Screenshots/117.png Graphic file (type png)
+
+<use ./Screenshots/117.png>
+Package pdftex.def Info: ./Screenshots/117.png used on input line 59.
+(pdftex.def)             Requested size: 512.14963pt x 41.08597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
+
+ []
+
+<./Screenshots/118.png, id=101, 703.62875pt x 57.21375pt>
+File: ./Screenshots/118.png Graphic file (type png)
+
+<use ./Screenshots/118.png>
+Package pdftex.def Info: ./Screenshots/118.png used on input line 64.
+(pdftex.def)             Requested size: 512.14963pt x 41.64345pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+[13 <./Screenshots/114.png> <./Screenshots/115.png> <./Screenshots/116.png> <./
+Screenshots/117.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 ...ґР°С‘Рј С‚РµРєСЃС‚РѕРІС‹Р№ С„Р°Р№Р» hello_
+                                                  world.sh СЃ РїРѕРјРѕС‰СЊСЋ...
+
+? 
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrshch invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyryu invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+Missing character: There is no с in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no щ in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no ю in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+! You can't use `macro parameter character #' in horizontal mode.
+l.67 ...ano}, РїСЂРѕРїРёСЃС‹РІР°РµРј С‚РµРєСЃС‚ $#
+                                                  !/bin/bash echo "Hello Wor...
+
+? 
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrery invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyryo invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \CYRP invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrya invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyryo invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 67.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 67.
+
+<./Screenshots/picture24.png, id=109, 649.67719pt x 298.86656pt>
+File: ./Screenshots/picture24.png Graphic file (type png)
+
+<use ./Screenshots/picture24.png>
+Package pdftex.def Info: ./Screenshots/picture24.png used on input line 68.
+(pdftex.def)             Requested size: 512.14963pt x 235.61859pt.
+
+<./Screenshots/picture25.png, id=110, 1028.34187pt x 551.05875pt>
+File: ./Screenshots/picture25.png Graphic file (type png)
+
+<use ./Screenshots/picture25.png>
+Package pdftex.def Info: ./Screenshots/picture25.png used on input line 70.
+(pdftex.def)             Requested size: 512.14963pt x 274.45241pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 		\paragraph
+                 {6)}
+? 
+Missing character: There is no с in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no я in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no В in font cmr12!
+Missing character: There is no ы in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no я in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no ј in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no П in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no я in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no ь in font cmr12!
+Missing character: There is no в in font cmr12!
+Missing character: There is no ј in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no о in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
+
+ []
+
+<./Screenshots/picture26.png, id=111, 442.65375pt x 481.04718pt>
+File: ./Screenshots/picture26.png Graphic file (type png)
+
+<use ./Screenshots/picture26.png>
+Package pdftex.def Info: ./Screenshots/picture26.png used on input line 74.
+(pdftex.def)             Requested size: 358.50317pt x 389.61671pt.
+
+<./Screenshots/picture27.png, id=112, 398.99063pt x 299.61937pt>
+File: ./Screenshots/picture27.png Graphic file (type png)
+
+<use ./Screenshots/picture27.png>
+Package pdftex.def Info: ./Screenshots/picture27.png used on input line 76.
+(pdftex.def)             Requested size: 512.14963pt x 384.6453pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--78
+
+ []
+
+[14 <./Screenshots/118.png> <./Screenshots/picture24.png (PNG copy)> <./Screens
+hots/picture25.png (PNG copy)>] [15 <./Screenshots/picture26.png (PNG copy)>])
+(./end.tex [16 <./Screenshots/picture27.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+[17]
 Overfull \hbox (16.73383pt too wide) in paragraph at lines 11--14
 []\T2A/cmr/m/n/12 В дан-ной ла-бо-ра-тор-ной бы-ли по-лу-че-ны на-вы-ки ра-бо-т
 ы со стан-дарт-ны-ми ути-ли-та-ми \T2A/cmr/m/it/12 GNU/Linux
  []
 
-) [11] (./main.aux) ) 
+) [18] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4599 strings out of 493029
- 60054 string characters out of 6136234
- 126325 words of memory out of 5000000
- 8024 multiletter control sequences out of 15000+600000
- 13680 words of font info for 34 fonts, out of 8000000 for 9000
+ 4693 strings out of 493029
+ 62177 string characters out of 6136234
+ 127325 words of memory out of 5000000
+ 8095 multiletter control sequences out of 15000+600000
+ 17034 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,23p,480b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,23p,784b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}</usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (12 pages, 2816760 bytes).
+c}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfti1200.pfb>
+Output written on main.pdf (19 pages, 4026690 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 168 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
