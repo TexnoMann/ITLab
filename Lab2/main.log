@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  6 MAR 2018 02:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.19)  6 MAR 2018 03:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 14 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -30,14 +30,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@posthook=\toks15
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -249,11 +249,17 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+01E02 (decimal 7682)
-   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -265,12 +271,14 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -311,7 +319,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -335,20 +343,27 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2016/02/24 3.9q The Babel package
+Package: babel 2017/06/29 3.12 The Babel package
 
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2016/02/24 3.9q Babel common definitions
+File: babel.def 2017/06/29 3.12 Babel common definitions
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/06/29 3.12 Babel switching mechanism
+)
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 
 Package babel Warning: No Cyrillic font encoding has been loaded so far.
 (babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 69.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
@@ -357,7 +372,7 @@ Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: t2aenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -545,10 +560,11 @@ File: t2aenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+232A (decimal 9002)
    defining Unicode char U+2423 (decimal 9251)
 ))
-Package babel Info: Making " an active character on input line 111.
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -568,7 +584,7 @@ Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
-File: ts1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -714,11 +730,10 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
@@ -738,7 +753,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/03 v2.15a AMS math features
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
@@ -755,23 +770,23 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen113
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
-LaTeX Info: Redefining \frac on input line 199.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count93
 \leftroot@=\count94
-LaTeX Info: Redefining \overline on input line 297.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count95
 \DOTSCASE@=\count96
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen114
-LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count97
 \c@MaxMatrixCols=\count98
 \dotsspace@=\muskip10
@@ -792,33 +807,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2735.
-LaTeX Info: Redefining \] on input line 2736.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 95.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count104
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
@@ -889,58 +896,66 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count104
 \scratchdimen=\dimen123
 \scratchbox=\box28
-\nofMPsegments=\count106
-\nofMParguments=\count107
+\nofMPsegments=\count105
+\nofMParguments=\count106
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count108
+\MPscratchCnt=\count107
 \MPscratchDim=\dimen124
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks24
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -959,19 +974,21 @@ Overfull \hbox (27.77963pt too wide) in paragraph at lines 5--6
 ва-ми на фай-лы и ди-рек-то-рии в GNU/LINUX. 
  []
 
-[1] <./Screenshots/picture1.png, id=13, 791.20593pt x 289.08pt>
+[1]
+<./Screenshots/picture1.png, id=13, 791.20593pt x 289.08pt>
 File: ./Screenshots/picture1.png Graphic file (type png)
-
 <use ./Screenshots/picture1.png>
-Package pdftex.def Info: ./Screenshots/picture1.png used on input line 23.
-(pdftex.def)             Requested size: 512.14963pt x 187.12343pt.
-
+Package pdftex.def Info: ./Screenshots/picture1.png  used on input line 23. on 
+input line 23.
+Package pdftex.def Info: Requested size: 512.14963pt x 187.12343pt on input lin
+e 23.
 <./Screenshots/picture2.png, id=14, 825.0825pt x 304.88907pt>
 File: ./Screenshots/picture2.png Graphic file (type png)
-
 <use ./Screenshots/picture2.png>
-Package pdftex.def Info: ./Screenshots/picture2.png used on input line 24.
-(pdftex.def)             Requested size: 512.14963pt x 189.25256pt.
+Package pdftex.def Info: ./Screenshots/picture2.png  used on input line 24. on 
+input line 24.
+Package pdftex.def Info: Requested size: 512.14963pt x 189.25256pt on input lin
+e 24.
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--26
 
@@ -979,25 +996,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--26
 
 <./Screenshots/picture3.png, id=15, 597.73312pt x 182.93344pt>
 File: ./Screenshots/picture3.png Graphic file (type png)
-
 <use ./Screenshots/picture3.png>
-Package pdftex.def Info: ./Screenshots/picture3.png used on input line 28.
-(pdftex.def)             Requested size: 512.14963pt x 156.75024pt.
-
+Package pdftex.def Info: ./Screenshots/picture3.png  used on input line 28. on 
+input line 28.
+Package pdftex.def Info: Requested size: 512.14963pt x 156.75024pt on input lin
+e 28.
 <./Screenshots/picture4.png, id=16, 795.72281pt x 271.76532pt>
 File: ./Screenshots/picture4.png Graphic file (type png)
-
 <use ./Screenshots/picture4.png>
-Package pdftex.def Info: ./Screenshots/picture4.png used on input line 29.
-(pdftex.def)             Requested size: 512.14963pt x 174.92029pt.
- [2 <./Screenshots/picture1.png (PNG copy)> <./Screenshots/picture2.png (PNG co
-py)>]
+Package pdftex.def Info: ./Screenshots/picture4.png  used on input line 29. on 
+input line 29.
+Package pdftex.def Info: Requested size: 512.14963pt x 174.92029pt on input lin
+e 29.
+[2 <./Screenshots/picture1.png (PNG copy)> <./Screenshots/picture2.png (PNG cop
+y)>]
 <./Screenshots/wget(var1).png, id=22, 1287.81125pt x 418.56375pt>
 File: ./Screenshots/wget(var1).png Graphic file (type png)
-
 <use ./Screenshots/wget(var1).png>
-Package pdftex.def Info: ./Screenshots/wget(var1).png used on input line 33.
-(pdftex.def)             Requested size: 512.14963pt x 166.46451pt.
+Package pdftex.def Info: ./Screenshots/wget(var1).png  used on input line 33. o
+n input line 33.
+Package pdftex.def Info: Requested size: 512.14963pt x 166.46451pt on input lin
+e 33.
 
 Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
@@ -1005,25 +1024,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
 <./Screenshots/picture5.png, id=24, 778.40813pt x 214.55156pt>
 File: ./Screenshots/picture5.png Graphic file (type png)
-
 <use ./Screenshots/picture5.png>
-Package pdftex.def Info: ./Screenshots/picture5.png used on input line 36.
-(pdftex.def)             Requested size: 512.14963pt x 141.16577pt.
-
+Package pdftex.def Info: ./Screenshots/picture5.png  used on input line 36. on 
+input line 36.
+Package pdftex.def Info: Requested size: 512.14963pt x 141.16577pt on input lin
+e 36.
 <./Screenshots/picture6.png, id=25, 683.55376pt x 108.405pt>
 File: ./Screenshots/picture6.png Graphic file (type png)
-
 <use ./Screenshots/picture6.png>
-Package pdftex.def Info: ./Screenshots/picture6.png used on input line 40.
-(pdftex.def)             Requested size: 512.14963pt x 81.22745pt.
- [3 <./Screenshots/picture3.png (PNG copy)> <./Screenshots/picture4.png (PNG co
-py)> <./Screenshots/wget(var1).png> <./Screenshots/picture5.png (PNG copy)>]
+Package pdftex.def Info: ./Screenshots/picture6.png  used on input line 40. on 
+input line 40.
+Package pdftex.def Info: Requested size: 512.14963pt x 81.22745pt on input line
+ 40.
+[3 <./Screenshots/picture3.png (PNG copy)> <./Screenshots/picture4.png (PNG cop
+y)> <./Screenshots/wget(var1).png> <./Screenshots/picture5.png (PNG copy)>]
 <./Screenshots/picture22.png, id=30, 595.47469pt x 152.06813pt>
 File: ./Screenshots/picture22.png Graphic file (type png)
-
 <use ./Screenshots/picture22.png>
-Package pdftex.def Info: ./Screenshots/picture22.png used on input line 48.
-(pdftex.def)             Requested size: 512.14963pt x 130.7969pt.
+Package pdftex.def Info: ./Screenshots/picture22.png  used on input line 48. on
+ input line 48.
+Package pdftex.def Info: Requested size: 512.14963pt x 130.7969pt on input line
+ 48.
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
@@ -1031,24 +1052,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
 <./Screenshots/tar(3).png, id=31, 814.04124pt x 389.455pt>
 File: ./Screenshots/tar(3).png Graphic file (type png)
-
 <use ./Screenshots/tar(3).png>
-Package pdftex.def Info: ./Screenshots/tar(3).png used on input line 52.
-(pdftex.def)             Requested size: 512.14963pt x 245.0311pt.
-
+Package pdftex.def Info: ./Screenshots/tar(3).png  used on input line 52. on in
+put line 52.
+Package pdftex.def Info: Requested size: 512.14963pt x 245.0311pt on input line
+ 52.
 <./Screenshots/picture23.png, id=32, 431.36156pt x 98.61844pt>
 File: ./Screenshots/picture23.png Graphic file (type png)
-
 <use ./Screenshots/picture23.png>
-Package pdftex.def Info: ./Screenshots/picture23.png used on input line 59.
-(pdftex.def)             Requested size: 512.14963pt x 117.10005pt.
-
+Package pdftex.def Info: ./Screenshots/picture23.png  used on input line 59. on
+ input line 59.
+Package pdftex.def Info: Requested size: 512.14963pt x 117.10005pt on input lin
+e 59.
 <./Screenshots/picture12.png, id=33, 1028.34187pt x 551.05875pt>
 File: ./Screenshots/picture12.png Graphic file (type png)
-
 <use ./Screenshots/picture12.png>
-Package pdftex.def Info: ./Screenshots/picture12.png used on input line 60.
-(pdftex.def)             Requested size: 512.14963pt x 274.45241pt.
+Package pdftex.def Info: ./Screenshots/picture12.png  used on input line 60. on
+ input line 60.
+Package pdftex.def Info: Requested size: 512.14963pt x 274.45241pt on input lin
+e 60.
 
 Underfull \hbox (badness 10000) in paragraph at lines 58--62
 
@@ -1058,65 +1080,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--62
 py)> <./Screenshots/tar(3).png>]
 <./Screenshots/find_Lermontov.png, id=38, 927.465pt x 103.38625pt>
 File: ./Screenshots/find_Lermontov.png Graphic file (type png)
-
 <use ./Screenshots/find_Lermontov.png>
-Package pdftex.def Info: ./Screenshots/find_Lermontov.png used on input line 64
-.
-(pdftex.def)             Requested size: 512.14963pt x 57.09134pt.
-
+Package pdftex.def Info: ./Screenshots/find_Lermontov.png  used on input line 6
+4. on input line 64.
+Package pdftex.def Info: Requested size: 512.14963pt x 57.09134pt on input line
+ 64.
 <./Screenshots/picture14.png, id=39, 635.37375pt x 168.63pt>
 File: ./Screenshots/picture14.png Graphic file (type png)
-
 <use ./Screenshots/picture14.png>
-Package pdftex.def Info: ./Screenshots/picture14.png used on input line 68.
-(pdftex.def)             Requested size: 512.14963pt x 135.93855pt.
-
+Package pdftex.def Info: ./Screenshots/picture14.png  used on input line 68. on
+ input line 68.
+Package pdftex.def Info: Requested size: 512.14963pt x 135.93855pt on input lin
+e 68.
 <./Screenshots/101.png, id=40, 891.33pt x 163.61125pt>
 File: ./Screenshots/101.png Graphic file (type png)
-
 <use ./Screenshots/101.png>
-Package pdftex.def Info: ./Screenshots/101.png used on input line 69.
-(pdftex.def)             Requested size: 512.14963pt x 94.01082pt.
-
+Package pdftex.def Info: ./Screenshots/101.png  used on input line 69. on input
+ line 69.
+Package pdftex.def Info: Requested size: 512.14963pt x 94.01082pt on input line
+ 69.
 <./Screenshots/102.png, id=41, 775.89874pt x 149.55875pt>
 File: ./Screenshots/102.png Graphic file (type png)
-
 <use ./Screenshots/102.png>
-Package pdftex.def Info: ./Screenshots/102.png used on input line 70.
-(pdftex.def)             Requested size: 512.14963pt x 98.72047pt.
+Package pdftex.def Info: ./Screenshots/102.png  used on input line 70. on input
+ line 70.
+Package pdftex.def Info: Requested size: 512.14963pt x 98.72047pt on input line
+ 70.
  [5 <./Screenshots/picture23.png (PNG copy)> <./Screenshots/picture12.png (PNG 
 copy)> <./Screenshots/find_Lermontov.png> <./Screenshots/picture14.png (PNG cop
 y)>]
 <./Screenshots/picture16.png, id=46, 759.58781pt x 404.26031pt>
 File: ./Screenshots/picture16.png Graphic file (type png)
-
 <use ./Screenshots/picture16.png>
-Package pdftex.def Info: ./Screenshots/picture16.png used on input line 74.
-(pdftex.def)             Requested size: 512.14963pt x 272.574pt.
-
+Package pdftex.def Info: ./Screenshots/picture16.png  used on input line 74. on
+ input line 74.
+Package pdftex.def Info: Requested size: 512.14963pt x 272.574pt on input line 
+74.
 <./Screenshots/103.png, id=47, 751.80875pt x 58.2175pt>
 File: ./Screenshots/103.png Graphic file (type png)
-
 <use ./Screenshots/103.png>
-Package pdftex.def Info: ./Screenshots/103.png used on input line 78.
-(pdftex.def)             Requested size: 512.14963pt x 39.66199pt.
-
+Package pdftex.def Info: ./Screenshots/103.png  used on input line 78. on input
+ line 78.
+Package pdftex.def Info: Requested size: 512.14963pt x 39.66199pt on input line
+ 78.
 <./Screenshots/119.png, id=48, 697.60625pt x 129.48375pt>
 File: ./Screenshots/119.png Graphic file (type png)
-
 <use ./Screenshots/119.png>
-Package pdftex.def Info: ./Screenshots/119.png used on input line 79.
-(pdftex.def)             Requested size: 512.14963pt x 95.06566pt.
-
+Package pdftex.def Info: ./Screenshots/119.png  used on input line 79. on input
+ line 79.
+Package pdftex.def Info: Requested size: 512.14963pt x 95.06566pt on input line
+ 79.
 <./Screenshots/picture17.png, id=49, 607.51968pt x 277.035pt>
 File: ./Screenshots/picture17.png Graphic file (type png)
-
 <use ./Screenshots/picture17.png>
-Package pdftex.def Info: ./Screenshots/picture17.png used on input line 83.
-(pdftex.def)             Requested size: 512.14963pt x 233.54901pt.
+Package pdftex.def Info: ./Screenshots/picture17.png  used on input line 83. on
+ input line 83.
+Package pdftex.def Info: Requested size: 512.14963pt x 233.54901pt on input lin
+e 83.
  [6 <./Screenshots/101.png> <./Screenshots/102.png> <./Screenshots/picture16.pn
-g (PNG copy)> <./Screenshots/103.png> <./Screenshots/119.png>]) (./end.tex [7 <
-./Screenshots/picture17.png (PNG copy)>]
+g (PNG copy)> <./Screenshots/103.png> <./Screenshots/119.png>]) (./2(2).tex [7 
+<./Screenshots/picture17.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1126,31 +1149,244 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[8]
-Overfull \hbox (16.73383pt too wide) in paragraph at lines 11--14
-[]\T2A/cmr/m/n/12 В дан-ной ла-бо-ра-тор-ной бы-ли по-лу-че-ны на-вы-ки ра-бо-т
-ы со стан-дарт-ны-ми ути-ли-та-ми \T2A/cmr/m/it/12 GNU/Linux
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
  []
 
-) [9] (./main.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<./Screenshots/110.png, id=61, 804.00375pt x 93.34875pt>
+File: ./Screenshots/110.png Graphic file (type png)
+<use ./Screenshots/110.png>
+Package pdftex.def Info: ./Screenshots/110.png  used on input line 16. on input
+ line 16.
+Package pdftex.def Info: Requested size: 512.14963pt x 59.46237pt on input line
+ 16.
+<./Screenshots/111.png, id=62, 711.65875pt x 59.22125pt>
+File: ./Screenshots/111.png Graphic file (type png)
+<use ./Screenshots/111.png>
+Package pdftex.def Info: ./Screenshots/111.png  used on input line 18. on input
+ line 18.
+Package pdftex.def Info: Requested size: 512.14963pt x 42.62027pt on input line
+ 18.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+<./Screenshots/picture20.png, id=63, 580.41844pt x 181.42781pt>
+File: ./Screenshots/picture20.png Graphic file (type png)
+<use ./Screenshots/picture20.png>
+Package pdftex.def Info: ./Screenshots/picture20.png  used on input line 24. on
+ input line 24.
+Package pdftex.def Info: Requested size: 512.14963pt x 160.09714pt on input lin
+e 24.
+<./Screenshots/picture21.png, id=64, 620.3175pt x 405.76593pt>
+File: ./Screenshots/picture21.png Graphic file (type png)
+<use ./Screenshots/picture21.png>
+Package pdftex.def Info: ./Screenshots/picture21.png  used on input line 27. on
+ input line 27.
+Package pdftex.def Info: Requested size: 512.14963pt x 335.00868pt on input lin
+e 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
+
+ []
+
+[8 <./Screenshots/110.png> <./Screenshots/111.png> <./Screenshots/picture20.png
+ (PNG copy)>]
+<./Screenshots/112.png, id=70, 626.34pt x 241.90375pt>
+File: ./Screenshots/112.png Graphic file (type png)
+<use ./Screenshots/112.png>
+Package pdftex.def Info: ./Screenshots/112.png  used on input line 33. on input
+ line 33.
+Package pdftex.def Info: Requested size: 512.14963pt x 197.80867pt on input lin
+e 33.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--35
+
+ []
+
+<./Screenshots/113(b).png, id=71, 587.19376pt x 40.15pt>
+File: ./Screenshots/113(b).png Graphic file (type png)
+<use ./Screenshots/113(b).png>
+Package pdftex.def Info: ./Screenshots/113(b).png  used on input line 37. on in
+put line 37.
+Package pdftex.def Info: Requested size: 512.14963pt x 35.01903pt on input line
+ 37.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--39
+
+ []
+
+<./Screenshots/113(r).png, id=72, 342.27875pt x 597.23125pt>
+File: ./Screenshots/113(r).png Graphic file (type png)
+<use ./Screenshots/113(r).png>
+Package pdftex.def Info: ./Screenshots/113(r).png  used on input line 40. on in
+put line 40.
+Package pdftex.def Info: Requested size: 332.89412pt x 580.89928pt on input lin
+e 40.
+[9 <./Screenshots/picture21.png (PNG copy)> <./Screenshots/112.png> <./Screensh
+ots/113(b).png>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+<./Screenshots/114.png, id=78, 667.49374pt x 162.6075pt>
+File: ./Screenshots/114.png Graphic file (type png)
+<use ./Screenshots/114.png>
+Package pdftex.def Info: ./Screenshots/114.png  used on input line 50. on input
+ line 50.
+Package pdftex.def Info: Requested size: 512.14963pt x 124.77394pt on input lin
+e 50.
+<./Screenshots/115.png, id=79, 696.6025pt x 166.6225pt>
+File: ./Screenshots/115.png Graphic file (type png)
+<use ./Screenshots/115.png>
+Package pdftex.def Info: ./Screenshots/115.png  used on input line 52. on input
+ line 52.
+Package pdftex.def Info: Requested size: 512.14963pt x 122.50801pt on input lin
+e 52.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--54
+
+ []
+
+[10 <./Screenshots/113(r).png>]
+<./Screenshots/116.png, id=84, 690.58pt x 55.20625pt>
+File: ./Screenshots/116.png Graphic file (type png)
+<use ./Screenshots/116.png>
+Package pdftex.def Info: ./Screenshots/116.png  used on input line 57. on input
+ line 57.
+Package pdftex.def Info: Requested size: 512.14963pt x 40.94295pt on input line
+ 57.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+<./Screenshots/117.png, id=85, 725.71124pt x 58.2175pt>
+File: ./Screenshots/117.png Graphic file (type png)
+<use ./Screenshots/117.png>
+Package pdftex.def Info: ./Screenshots/117.png  used on input line 61. on input
+ line 61.
+Package pdftex.def Info: Requested size: 512.14963pt x 41.08597pt on input line
+ 61.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+
+ []
+
+<./Screenshots/118.png, id=86, 703.62875pt x 57.21375pt>
+File: ./Screenshots/118.png Graphic file (type png)
+<use ./Screenshots/118.png>
+Package pdftex.def Info: ./Screenshots/118.png  used on input line 66. on input
+ line 66.
+Package pdftex.def Info: Requested size: 512.14963pt x 41.64345pt on input line
+ 66.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+
+ []
+
+<./Screenshots/picture24.png, id=87, 649.67719pt x 298.86656pt>
+File: ./Screenshots/picture24.png Graphic file (type png)
+<use ./Screenshots/picture24.png>
+Package pdftex.def Info: ./Screenshots/picture24.png  used on input line 70. on
+ input line 70.
+Package pdftex.def Info: Requested size: 512.14963pt x 235.61859pt on input lin
+e 70.
+[11 <./Screenshots/114.png> <./Screenshots/115.png> <./Screenshots/116.png> <./
+Screenshots/117.png> <./Screenshots/118.png>]
+<./Screenshots/picture25.png, id=96, 254.45062pt x 63.98906pt>
+File: ./Screenshots/picture25.png Graphic file (type png)
+<use ./Screenshots/picture25.png>
+Package pdftex.def Info: ./Screenshots/picture25.png  used on input line 72. on
+ input line 72.
+Package pdftex.def Info: Requested size: 358.50317pt x 90.16013pt on input line
+ 72.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<./Screenshots/picture26.png, id=97, 442.65375pt x 481.04718pt>
+File: ./Screenshots/picture26.png Graphic file (type png)
+<use ./Screenshots/picture26.png>
+Package pdftex.def Info: ./Screenshots/picture26.png  used on input line 78. on
+ input line 78.
+Package pdftex.def Info: Requested size: 358.50317pt x 389.61671pt on input lin
+e 78.
+[12 <./Screenshots/picture24.png (PNG copy)> <./Screenshots/picture25.png (PNG 
+copy)>]
+<./Screenshots/picture27.png, id=102, 398.99063pt x 299.61937pt>
+File: ./Screenshots/picture27.png Graphic file (type png)
+<use ./Screenshots/picture27.png>
+Package pdftex.def Info: ./Screenshots/picture27.png  used on input line 82. on
+ input line 82.
+Package pdftex.def Info: Requested size: 307.2929pt x 230.77162pt on input line
+ 82.
+) (./end.tex [13 <./Screenshots/picture26.png (PNG copy)> <./Screenshots/pictur
+e27.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+<./Screenshots/line.png, id=109, 1204.5pt x 186.6975pt>
+File: ./Screenshots/line.png Graphic file (type png)
+<use ./Screenshots/line.png>
+Package pdftex.def Info: ./Screenshots/line.png  used on input line 20. on inpu
+t line 20.
+Package pdftex.def Info: Requested size: 409.72125pt x 63.50764pt on input line
+ 20.
+) [15 <./Screenshots/line.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4568 strings out of 493029
- 59366 string characters out of 6136234
- 125325 words of memory out of 5000000
- 7998 multiletter control sequences out of 15000+600000
+ 4683 strings out of 494364
+ 62004 string characters out of 6171382
+ 121780 words of memory out of 5000000
+ 7880 multiletter control sequences out of 15000+600000
  13680 words of font info for 34 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 37i,4n,23p,480b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-}</usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (10 pages, 2312362 bytes).
+ 452 hyphenation exceptions out of 8191
+ 41i,4n,25p,784b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/keks/.texlive2017/texmf-v
+ar/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/keks/.texlive2017/texmf-var
+/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/keks/.texlive2017/texmf-var/f
+onts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/keks/.texlive2017/texmf-var/fon
+ts/pk/ljfour/lh/lh-t2a/labi1200.600pk> </home/keks/.texlive2017/texmf-var/fonts
+/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/keks/.texlive2017/texmf-var/fonts/p
+k/ljfour/lh/lh-t2a/larm1200.600pk>
+Output written on main.pdf (16 pages, 3103643 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 396 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
