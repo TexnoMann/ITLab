@@ -19,24 +19,24 @@
 
 		\paragraph*{1.1)Скачивание файлов из интернета с использованием терминала\\\\}
 
-		Команда \textit{wget --spider url} позволяет проверить доступность файла по указанному адресу.\\
+		Команда \textit{wget --spider url} позволяет проверить доступность файла по указанному адресу url.\\
 		\includegraphics [width=\textwidth]{picture1.png}\\
 		\includegraphics [width=\textwidth]{picture2.png}\\
 		\vspace{0.5cm}
 
-		Команда \textit{wget -i filename} позволяет скачать файл по ссылке из файла. С помощью \textit{head -n 1} можно получить первую строку файла\\
+		Команда \textit{wget -i filename} позволяет скачать файл по ссылке из файла. С помощью \textit{head -n 1} можно получить первую строку файла. Значок \textit{<} переводит вывод построчно в активный поток ввода\\
 		\includegraphics [width=\textwidth]{picture3.png}\\
 		\includegraphics [width=\textwidth]{picture4.png}\\
 		\vspace{0.5cm}
 
-		Скачивание файла по второй ссылке из файла\\
+		Скачивание файла по второй ссылке из файла. Также используется \textit{head}, но забирает он уже вторую строку\\
 		\includegraphics [width=\textwidth]{wget(var1).png}\\
 
-		Выборку остальных файлов можно осуществить при помощи команды \textit{sed}, способной получить сразличные строки\\
+		Выборку остальных файлов можно осуществить при помощи команды \textit{sed} способной во входящем потоке отредактировать файл и удалить не нужные нам строки\\
 		\includegraphics [width=\textwidth]{picture5.png}\\
 		\vspace{0.5cm}
 
-		Скачивание всех \textit{.jpeg}, \textit{.jpg} файлов с сайта про Лермонтова\\
+		Скачивание всех \textit{.jpeg}, \textit{.jpg} файлов с сайта про Лермонтова. Используется глубина рекурсии 1. Не создаются поддиректории.\\\
 		\includegraphics [width=\textwidth]{picture6.png}\\
 		\vspace{1cm}
 		
@@ -44,23 +44,23 @@
 
 		\paragraph*{1.2) Работа с архивами\\\\}
 
-		Извлечение из \textit{.zip} архива файла Лермонтов.txt\\
+		Извлечение из \textit{.zip} архива файла Лермонтов.txt Используется утилита \textit{unzip}\\
 		\includegraphics [width=\textwidth]{picture22.png}\\
 		\vspace{0.5cm}
 
-		Распаковка архивов \textit{.tar, .tar.gz, .tar.bz2} с выводом информации о процессе на экран\\
+		Распаковка архивов \textit{.tar, .tar.gz, .tar.bz2} с выводом информации о процессе на экран (необходим ключик -v: verboose)\\
 		\includegraphics [width=\textwidth]{tar(3).png}\\
 		\vspace{0.5cm}
 
 
 		\paragraph*{1.3) Поиск файлов, поиск по тексту\\\\}
 		
-		Нахождение всех файлов, созданных за последний 1 дней в домашней папке\\
+		Нахождение всех файлов, созданных за последний 1 дней в домашней папке. Так как их было много, содержимое вывода не влезло в окно консоли\\
 		\includegraphics [width=\textwidth]{picture23.png}\\
 		\includegraphics [width=\textwidth]{picture12.png}\\
 		\vspace{0.5cm}
 
-		Нахождение всех файлов с фамилией Лермонтов\\
+		Нахождение всех файлов с фамилией Лермонтов с использованием команда \textit{find}, способной искать файлы по маске или регулярному выражению\\
 		\includegraphics [width=\textwidth]{find_Lermontov.png}\\
 		\vspace{0.5cm}
 
@@ -70,7 +70,8 @@
 		\includegraphics [width=\textwidth]{102.png}\\
 		\vspace{0.5cm}
 
-		Смена кодировки файла \textit{Лермонтов.txt} c \textit{windows-1251} на \textit{Unicode}\\
+		Смена кодировки файла \textit{Лермонтов.txt} c \textit{windows-1251} на \textit{Unicode}. Используется команда 
+		\textit{ivconv}\\
 		\includegraphics [width=\textwidth]{picture16.png}\\
 		\vspace{0.5cm}
 
@@ -79,7 +80,24 @@
 		\includegraphics [width=\textwidth]{119.png}\\
 		\vspace{0.5cm}
 
-		Посчет количества строк в файлах с произведениями\\
+		Посчет количества строк в файлах с произведениями. Было решено использовать команду \textit{grep}, способную рпботать с регулярными выражениями\\
 		\includegraphics [width=\textwidth]{picture17.png}\\
 		\vspace{0.5cm}
+
+
+		\paragraph*{1.4) Работа с архивами(архивирование)\\\\}
+
+		Архивирование папок "Произведения Лермонтова" и "Картинки" в \textit{tar ,zip} и \textit{tar} сжатый \textit{gz}\\
+		\includegraphics [width=\textwidth]{picture18.png}\\
+		\includegraphics [width=\textwidth]{106.png}\\
+		\includegraphics [width=\textwidth]{107.png}\\
+		\vspace{0.5cm}
+
+		Проверка архивирования. Проверяем содержимое архивов при помоши спец. ключа \textit{-t} для архивов tar и при помощи \textit{zipinfo} для zip \\
+		\begin{center}
+			\includegraphics [width=0.7\textwidth]{109.png}\\
+			\includegraphics [width=\textwidth]{picture19.png}\\
+		\end{center}
+		\vspace{0.5cm}
+
 

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.19)  6 MAR 2018 03:26
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.14)  6 MAR 2018 03:07
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1025,19 +1029,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--34
 <./Screenshots/picture5.png, id=24, 778.40813pt x 214.55156pt>
 File: ./Screenshots/picture5.png Graphic file (type png)
 <use ./Screenshots/picture5.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/picture5.png  used on input line 36. on 
 input line 36.
 Package pdftex.def Info: Requested size: 512.14963pt x 141.16577pt on input lin
 e 36.
 <./Screenshots/picture6.png, id=25, 683.55376pt x 108.405pt>
+=======
+Package pdftex.def Info: ./Screenshots/picture5.png used on input line 36.
+(pdftex.def)             Requested size: 512.14963pt x 141.16577pt.
+ [3 <./Screenshots/picture3.png (PNG copy)> <./Screenshots/picture4.png (PNG co
+py)> <./Screenshots/wget(var1).png> <./Screenshots/picture5.png (PNG copy)>]
+<./Screenshots/picture6.png, id=29, 683.55376pt x 108.405pt>
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 File: ./Screenshots/picture6.png Graphic file (type png)
 <use ./Screenshots/picture6.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/picture6.png  used on input line 40. on 
 input line 40.
 Package pdftex.def Info: Requested size: 512.14963pt x 81.22745pt on input line
  40.
 [3 <./Screenshots/picture3.png (PNG copy)> <./Screenshots/picture4.png (PNG cop
 y)> <./Screenshots/wget(var1).png> <./Screenshots/picture5.png (PNG copy)>]
+=======
+Package pdftex.def Info: ./Screenshots/picture6.png used on input line 40.
+(pdftex.def)             Requested size: 512.14963pt x 81.22745pt.
+
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 <./Screenshots/picture22.png, id=30, 595.47469pt x 152.06813pt>
 File: ./Screenshots/picture22.png Graphic file (type png)
 <use ./Screenshots/picture22.png>
@@ -1112,27 +1130,46 @@ y)>]
 <./Screenshots/picture16.png, id=46, 759.58781pt x 404.26031pt>
 File: ./Screenshots/picture16.png Graphic file (type png)
 <use ./Screenshots/picture16.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/picture16.png  used on input line 74. on
  input line 74.
 Package pdftex.def Info: Requested size: 512.14963pt x 272.574pt on input line 
 74.
+=======
+Package pdftex.def Info: ./Screenshots/picture16.png used on input line 75.
+(pdftex.def)             Requested size: 512.14963pt x 272.574pt.
+
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 <./Screenshots/103.png, id=47, 751.80875pt x 58.2175pt>
 File: ./Screenshots/103.png Graphic file (type png)
 <use ./Screenshots/103.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/103.png  used on input line 78. on input
  line 78.
 Package pdftex.def Info: Requested size: 512.14963pt x 39.66199pt on input line
  78.
+=======
+Package pdftex.def Info: ./Screenshots/103.png used on input line 79.
+(pdftex.def)             Requested size: 512.14963pt x 39.66199pt.
+
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 <./Screenshots/119.png, id=48, 697.60625pt x 129.48375pt>
 File: ./Screenshots/119.png Graphic file (type png)
 <use ./Screenshots/119.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/119.png  used on input line 79. on input
  line 79.
 Package pdftex.def Info: Requested size: 512.14963pt x 95.06566pt on input line
  79.
+=======
+Package pdftex.def Info: ./Screenshots/119.png used on input line 80.
+(pdftex.def)             Requested size: 512.14963pt x 95.06566pt.
+
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 <./Screenshots/picture17.png, id=49, 607.51968pt x 277.035pt>
 File: ./Screenshots/picture17.png Graphic file (type png)
 <use ./Screenshots/picture17.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./Screenshots/picture17.png  used on input line 83. on
  input line 83.
 Package pdftex.def Info: Requested size: 512.14963pt x 233.54901pt on input lin
@@ -1331,6 +1368,59 @@ Package pdftex.def Info: Requested size: 307.2929pt x 230.77162pt on input line
  82.
 ) (./end.tex [13 <./Screenshots/picture26.png (PNG copy)> <./Screenshots/pictur
 e27.png (PNG copy)>]
+=======
+Package pdftex.def Info: ./Screenshots/picture17.png used on input line 84.
+(pdftex.def)             Requested size: 512.14963pt x 233.54901pt.
+ [6 <./Screenshots/101.png> <./Screenshots/102.png> <./Screenshots/picture16.pn
+g (PNG copy)> <./Screenshots/103.png> <./Screenshots/119.png>]
+<./Screenshots/picture18.png, id=58, 618.05907pt x 293.59688pt>
+File: ./Screenshots/picture18.png Graphic file (type png)
+
+<use ./Screenshots/picture18.png>
+Package pdftex.def Info: ./Screenshots/picture18.png used on input line 91.
+(pdftex.def)             Requested size: 512.14963pt x 243.30902pt.
+
+<./Screenshots/106.png, id=59, 1147.28625pt x 418.56375pt>
+File: ./Screenshots/106.png Graphic file (type png)
+
+<use ./Screenshots/106.png>
+Package pdftex.def Info: ./Screenshots/106.png used on input line 92.
+(pdftex.def)             Requested size: 512.14963pt x 186.85104pt.
+
+<./Screenshots/107.png, id=60, 1166.3575pt x 369.38pt>
+File: ./Screenshots/107.png Graphic file (type png)
+
+<use ./Screenshots/107.png>
+Package pdftex.def Info: ./Screenshots/107.png used on input line 93.
+(pdftex.def)             Requested size: 512.14963pt x 162.20079pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+[7 <./Screenshots/picture17.png (PNG copy)> <./Screenshots/picture18.png (PNG c
+opy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<./Screenshots/109.png, id=64, 463.7325pt x 624.3325pt>
+File: ./Screenshots/109.png Graphic file (type png)
+
+<use ./Screenshots/109.png>
+Package pdftex.def Info: ./Screenshots/109.png used on input line 98.
+(pdftex.def)             Requested size: 358.50317pt x 482.6714pt.
+
+<./Screenshots/picture19.png, id=65, 543.53062pt x 229.60782pt> [8 <./Screensho
+ts/106.png> <./Screenshots/107.png>]
+File: ./Screenshots/picture19.png Graphic file (type png)
+ <use ./Screenshots/picture19.png>
+Package pdftex.def Info: ./Screenshots/picture19.png used on input line 99.
+(pdftex.def)             Requested size: 512.14963pt x 216.3604pt.
+)
+(./end.tex [9 <./Screenshots/109.png> <./Screenshots/picture19.png (PNG copy)>]
+
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1340,6 +1430,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
+<<<<<<< HEAD
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
@@ -1389,4 +1480,33 @@ PDF statistics:
  62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+[10]
+Overfull \hbox (16.73383pt too wide) in paragraph at lines 11--14
+[]\T2A/cmr/m/n/12 В дан-ной ла-бо-ра-тор-ной бы-ли по-лу-че-ны на-вы-ки ра-бо-т
+ы со стан-дарт-ны-ми ути-ли-та-ми \T2A/cmr/m/it/12 GNU/Linux
+ []
+
+) [11] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 4599 strings out of 493029
+ 60054 string characters out of 6136234
+ 126325 words of memory out of 5000000
+ 8024 multiletter control sequences out of 15000+600000
+ 13680 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,5n,23p,480b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.en
+c}</usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (12 pages, 2816760 bytes).
+PDF statistics:
+ 103 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 071019f6165bf7873fdb8d0cdef70f02be72ef1f
 
