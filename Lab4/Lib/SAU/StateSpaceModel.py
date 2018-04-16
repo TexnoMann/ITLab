@@ -6,9 +6,7 @@ class StateSpaceModel():
 	def __init__(self, filename):
 		self.__file=open(filename)
 		self.__parseFile()
-		self.matA
-		self.matB
-		self.matC
+
 
 	def getMatrixControl(self):
 		matControl=self.matB
