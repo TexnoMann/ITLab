@@ -9,13 +9,13 @@ class StateSpaceModel():
 
 
 	def getMatrixControl(self):
-		matControl=self.matB
+		matControl=Matrix(self.matB.getMatrixInList().copy())
 		for i in range(self.matA.getRowCount()-1):
 			matControl.addColumn(pow(self.matA,i+1)*self.matB)
 		return matControl
 
 	def getMatrixObservability(self):
-		matObservability=self.matC
+		matObservability=Matrix(self.matC.getMatrixInList().copy())
 		for i in range(self.matA.getRowCount()-1):
 			matObservability.addRow(self.matC*(pow(self.matA,i+1)))
 		return matObservability
@@ -39,6 +39,13 @@ class StateSpaceModel():
 				matList.append(lists)
 		return Matrix(matList)
 
+	def checkControl(self):
+		if self.getMatrixControl().getRang() == self.getMatrixControl().getRowCount(): return True
+		else: return False
+
+	def checkObservability(self):
+		if self.getMatrixObservability().getRang() == self.getMatrixObservability().getRowCount(): return True
+		else: return False
 
 
 
