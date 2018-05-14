@@ -20,7 +20,7 @@ class StateSpaceModelNP():
         return matControl
 
     def checkControlNP(self):
-        if (matrix_rank(self.getMatrixControlNP()) == shape(self.getMatrixControlNP())[0]):
+        if (np.linalg.matrix_rank(self.getMatrixControlNP()) == shape(self.getMatrixControlNP())[0]):
             return True
         else:
             return False
@@ -33,7 +33,7 @@ class StateSpaceModelNP():
         return matObservability
 
     def checkObservabilityNP(self):
-        if matrix_rank(self.getMatrixObservabilityNP()) == shape(self.getMatrixObservabilityNP())[0]: return True
+        if np.linalg.matrix_rank(self.getMatrixObservabilityNP()) == shape(self.getMatrixObservabilityNP())[0]: return True
         else: return False
 
     def generateMatrixNP(filename,M,a,b):
